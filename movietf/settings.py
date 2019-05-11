@@ -26,7 +26,7 @@ STATIC_URL = '/static/'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['moviesr.azurewebsites.net']
+ALLOWED_HOSTS = ['azzuresrrr.azurewebsites.net']
 
 
 # Application definition
